@@ -1,3 +1,20 @@
+# The restaurant opens its doors and offers several menus at preferential prices:
+# ⦁ Chicken menu - BGN 10.35.
+# ⦁ Fish menu - BGN 12.40.
+# ⦁ Vegetarian menu - BGN 8.15.
+# Write a program that calculates how much it will cost a group of people to order food to take home.
+# The group will also order a dessert, the price of which is equal to 20% of the total bill (excluding delivery).
+# The delivery price is BGN 2.50 and is finally charged.
+
+# Entrance
+# 3 lines are read from the console:
+# Number of chicken menus - integer in the range [0… 99]
+# Number of fish menus - integer in the range [0… 99]
+# Number of vegetarian menus - integer in the range [0… 99]
+
+# Exit
+# Print one line on the console: "{order price}"
+
 chicken_menu = int(input())
 fish_menu = int(input())
 vegan_menu = int(input())
