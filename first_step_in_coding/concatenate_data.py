@@ -1,3 +1,6 @@
+# Write a program that reads the name, surname, age, and city from the console and prints the following message: 
+# "You are <firstName> <lastName>, a <age> -years old person from <town>."
+
 first_name = input()
 last_name = input()
 age = int(input())
