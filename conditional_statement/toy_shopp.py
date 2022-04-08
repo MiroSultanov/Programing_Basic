@@ -1,3 +1,13 @@
+# Petya has a toy store. She receives a large order that she must fulfill. With the money he will earn he wants to go on a trip.
+# Toy prices:
+# ⦁ Puzzle - BGN 2.60.
+# ⦁ Talking doll - BGN 3
+# ⦁ Teddy bear - BGN 4.10
+# ⦁ Minion - BGN 8.20
+# ⦁ Truck - BGN 2
+# If the ordered toys are 50 or more, the store makes a 25% discount on the total price. Petya has to give 10% of the earned money for the rent of the store. 
+# To calculate whether the money will be enough for her to go on a trip.
+
 vacation_price = float(input())
 number_puzzles = int(input())
 number_dolls = int(input())
