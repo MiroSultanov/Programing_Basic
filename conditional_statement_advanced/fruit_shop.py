@@ -1,3 +1,19 @@
+# Write a program that reads from the console the following three variables entered by the user and calculates the price according to the prices in the tables above:
+# ⦁ fruit - banana / apple / orange / grapefruit / kiwi / pineapple / grapes;
+# ⦁ day of the week - Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday;
+# ⦁ quantity (real number).
+# Print the result rounded with 2 digits after the decimal point. In case of invalid day of the week or invalid fruit name, print "error".
+
+# Fruit shop on weekdays works at the following prices:
+# fruit	banana	apple	orange	grapefruit	kiwi	pineapple	grapes
+# price	2.50	1.20	0.85	1.45	        2.70	 5.50	         3.85
+
+# On Saturdays and Sundays the store is open at higher prices:
+# fruit	banana	apple	orange	grapefruit	kiwi	pineapple	grapes
+# price	2.70	1.25	0.90	 1.60	         3.00	 5.60	         4.20
+
+        
+        
 fruit = input()
 day_of_week = input()
 quantity = float(input())
