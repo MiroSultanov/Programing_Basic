@@ -1,3 +1,16 @@
+# Write a program that reads a product name entered by the user and checks if it is a fruit or vegetable.
+# ⦁ "Fruits" have the following possible values: banana, apple, kiwi, cherry, lemon and grapes;
+# ⦁ Vegetables have the following possible values: tomato, cucumber, pepper and carrot;
+# ⦁ All others are "unknown".
+# Display "fruit", "vegetable" or "unknown" according to the entered product.
+
+# Sample input and output
+# input     Output
+# banana    fruit 
+# apple     fruit 
+# tomato    vegetable
+# water     unknown
+
 name_of_product = input()
 if name_of_product == 'banana' or name_of_product == 'apple' or\
         name_of_product == 'kiwi'or name_of_product == 'cherry' or \
