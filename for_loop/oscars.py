@@ -1,4 +1,4 @@
-You are invited by the academy to write software to calculate the points for an actor / actress. The academy will give you initial points for the actor. 
+# You are invited by the academy to write software to calculate the points for an actor / actress. The academy will give you initial points for the actor. 
 # Then each evaluator will give his evaluation. The points that the actor receives are formed by: the length of the evaluator's name multiplied
 # by the points he gives divided by two. If the result at some point exceeds 1250.5 the program must be interrupted and it must be printed 
 # that the actor has received a nomination.
