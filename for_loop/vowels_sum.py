@@ -1,6 +1,6 @@
 # Write a program that reads text (string) entered by the user and calculates and prints the sum of the values of the vowels according to the table below:
-# letter a	e	i	o	u
-# value  1  2   3   4   5
+# letter a e i o u
+# value  1 2 3 4 5
 
 text = (input())
 total_sum = 0
