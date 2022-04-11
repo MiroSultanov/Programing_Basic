@@ -1,3 +1,12 @@
+# Write a program that calculates a student's average grade throughout his or her studies. On the first line you will receive the student's name, 
+# and on each subsequent line his annual grades. The student moves on to the next grade if his / her annual grade is greater than or equal to 4.00. 
+# If the student is torn more than once, he is expelled and the program ends by printing the student's name and in which class he is expelled.
+#  Upon successful completion of 12th grade to print:
+# "{student's name} graduated. Average grade: {average grade from the whole course}"
+# In case the student is expelled from school, print:
+# "{name of student} has been excluded at {grade} {"
+# The value must be formatted to the second decimal place.
+
 name = input()
 grade = 0
 year = 0
