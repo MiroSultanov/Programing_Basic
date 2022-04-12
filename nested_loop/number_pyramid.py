@@ -1,3 +1,5 @@
+# Write a program that reads an integer n entered by the user and prints a pyramid of numbers.
+
 number = int(input())
 counter = 1
 all_is_printed = False
